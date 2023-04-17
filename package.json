@@ -1,0 +1,19 @@
+{
+  "name": "Transaction-ancestry-sets",
+  "version": "1.0.0",
+  "description": "Transaction-ancestry-sets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Hardik Kapadia",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "axios": "^0.16.2"
+  }
+}
